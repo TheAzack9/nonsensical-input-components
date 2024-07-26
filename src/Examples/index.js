@@ -1,6 +1,6 @@
 import PachinkoCheckboxes from "./PachinkoCheckboxes"
 import SpaceNumberPicker from "./SpaceNumberPicker"
-import YourNumber from "./YourNumber"
+import RandomNumber from "./RandomNumber"
 
 const AllExamples = [
     {
@@ -12,8 +12,8 @@ const AllExamples = [
         component: SpaceNumberPicker,
     },
     {
-        name: "YourNumber",
-        component: YourNumber,
+        name: "RandomNumber",
+        component: RandomNumber,
     },
 ]
 
