@@ -1,10 +1,10 @@
-import PachinkoCheckboxes from "./PachinkoCheckboxes"
+import PachinkoCheckboxExample from "./PachinkoCheckboxExample"
 
 const AllExamples = [
     {
-        name: "PachinkoCheckboxes",
-        component: PachinkoCheckboxes,
-    }
+        name: "PachinkoCheckboxExample",
+        component: PachinkoCheckboxExample,
+    },
 ]
 
 export default AllExamples
